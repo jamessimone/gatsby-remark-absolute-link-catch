@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-remark-absolute-link-catch",
+  "version": "0.0.1",
+  "description": "Catch absolute links and transform them to relative links in your markdown",
+  "main": "index.js",
+  "author": "James Simone",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamessimone/gatsby-remark-absolute-link-catch.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "link",
+    "catch",
+    "gatsby-transformer-remark",
+    "remark",
+    "gatsby-plugin-catch-links",
+    "markdown"
+  ]
+}
